@@ -1,5 +1,5 @@
 # タッチセンサーアレイ
-![TouchSensorArray](https://user-images.githubusercontent.com/39935914/138678068-8d591f12-905f-4e7f-9b31-f2c0113a9087.jpg)
+<img src="https://user-images.githubusercontent.com/39935914/138678068-8d591f12-905f-4e7f-9b31-f2c0113a9087.jpg" width="1024">
 ## 概要
 タッチセンサーアレイはSPIKEプライムをより発展的に使うデバイスです．
 このデバイスを繋ぐだけで，1つのポートで複数のタッチセンサを使うことができます．
