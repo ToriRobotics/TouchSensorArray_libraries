@@ -1,6 +1,6 @@
 # タッチセンサーアレイ
 <div align="center">
-<img src="https://user-images.githubusercontent.com/39935914/138678068-8d591f12-905f-4e7f-9b31-f2c0113a9087.jpg" width="800">
+<img src="https://user-images.githubusercontent.com/39935914/138678068-8d591f12-905f-4e7f-9b31-f2c0113a9087.jpg" width="650">
 </div>
 
 ## 概要
