@@ -2,6 +2,9 @@
 - 対応アプリ : LEGO® Education SPIKE™ v.1.3.5 (以下SPIKEアプリと呼ぶ)
 - 対応ハブOS : 3.0.22
 - 対応言語 : Python
+- 穴間距離 : 4×4(stud)
+- 大きさ(基板サイズ) : 42×42×9(mm)
+- 大きさ(ソケット含む) : 42×42×17(mm)
 
 ## ライブラリのインストール方法
 1. SPIKEアプリで新しいプロジェクトを作成
@@ -15,6 +18,13 @@
 
 ### ライブラリの読み込み
 - ```from projects.touch_sensor_array import TouchSensorArray```によってインストールしたライブラリを読み出すことができる
+
+### SIPKEプライムとタッチセンサの接続
+図のように接続を行う
+図の番号がタッチセンサのポート番号となる
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42668499/147165235-5bf6cc65-e6c9-4947-8e54-9cf64f8cb1c5.png" width="650">
+</div>
 
 ### ポートの指定
 - ```touch = TouchSensorArray("E")```によってポート(A~F)を指定し、オブジェクトを定義する
